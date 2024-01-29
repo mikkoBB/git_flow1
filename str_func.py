@@ -4,7 +4,7 @@ def big_word():
     """
     user_input = input()
     print(user_input.upper())
-upp_1()
+big_word()
 
 
 def tit_1():
