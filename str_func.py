@@ -1,10 +1,10 @@
-def big_word():
+def upp_1():
     """
     Делает буквы заглавными в каждом слове
     """
     user_input = input()
     print(user_input.upper())
-big_word()
+upp_1()
 
 
 def tit_1():
